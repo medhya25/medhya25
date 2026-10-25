@@ -9,8 +9,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=a855f7&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&color=a855f7)
+![Profile Views](https://komarev.com/ghpvc/?username=medhya25&label=Profile%20views&color=a855f7&style=flat)
+![Followers](https://img.shields.io/github/followers/medhya25?style=flat&logo=github&color=a855f7)
 
 </div>
 
@@ -97,9 +97,9 @@ Short description of what it does.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhya.yadav25@gmail.com)
+
 
 </div>
 
