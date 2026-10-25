@@ -1,10 +1,10 @@
 <!-- ======= HEADER BANNER ======= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey%20there!%20I'm%20Medhya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hey%20there%2C%20I%20am%20Medhya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="header banner"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Medhya+Yadav+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;1st+Year+B.Tech+CSE+Student+%F0%9F%8E%93;Curious+about+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Medhya+Yadav+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;1st+Year+B.Tech+CSE+Student+%F0%9F%8E%93;Curious+about+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -96,7 +96,6 @@ Short description of what it does.
 ## 🌐 Connect With Me
 
 <div align="center">
-
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhya.yadav25@gmail.com)
 
